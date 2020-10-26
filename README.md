@@ -2,7 +2,7 @@
 
 Analysis of Urbanization and Transportation Data: Predicting places that could benefit from renewable energy
 
-Samantha Lee (SRL84), Olia Javidi (OJ33), and Katie Lie (YL2249)
+Samantha Lee (SRL84), Olia Javidi (OJ33), and Katie Li (YL2249)
 
 Our goal is to analyze changing urbanization dynamics across the globe and identify cities with high rates of urbanization. From there we will ask:
 
