@@ -1,6 +1,6 @@
 # ORIE4741_Project
 
-Impact of Urbanization on the Environment: Predicting places that could benefit from renewable energy
+Global CO2 Emissions: Prediction and Mitigation
 
 Samantha Lee (SRL84), Olia Javidi (OJ33), and Katie Li (YL2249)
 
