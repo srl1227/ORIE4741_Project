@@ -8,15 +8,21 @@ Samantha Lee (SRL84), Olia Javidi (OJ33), and Katie Li (YL2249)
 
 Our goal is to analyze changing urbanization dynamics across the globe and identify countries with high rates of urbanization. From there we will ask:
 
-1) Which countries are urbanizing at the fastest rate?
+1) Which countries have the highest rates of carbon emissions per capita?
 
-2) Which countries are emitting the most greenhouse gas emissions and is it correlated to climate change? 
+2) Which indicators have the biggest influence on CO2 emissions?
 
-2) Which countries could benefit the most from investing in renewable power infrastructure?
+3) What changes can countries make to reduce their carbon emissions?
 
-**File Descriptions**
+**Milestones**
 
 "Project_Proposal.md" contains the full project proposal.
+
+"Midterm Report.pdf" contains the midterm milestone.
+
+"Final Report.pdf" contains the final milestone writeup.
+
+**File Descriptions**
 
 "PreProcessing&FeatureSelection.ipynb" contains the code for initial dataset filtering, dealing with NaN values, overfitting/underfitting, and random forest regression for feature selection.
 
