@@ -4,6 +4,8 @@ Impact of Urbanization on the Environment: Predicting places that could benefit 
 
 Samantha Lee (SRL84), Olia Javidi (OJ33), and Katie Li (YL2249)
 
+**Goals**
+
 Our goal is to analyze changing urbanization dynamics across the globe and identify countries with high rates of urbanization. From there we will ask:
 
 1) Which countries are urbanizing at the fastest rate?
@@ -11,6 +13,8 @@ Our goal is to analyze changing urbanization dynamics across the globe and ident
 2) Which countries are emitting the most greenhouse gas emissions and is it correlated to climate change? 
 
 2) Which countries could benefit the most from investing in renewable power infrastructure?
+
+**File Descriptions**
 
 "Project_Proposal.md" contains the full project proposal.
 
