@@ -6,7 +6,7 @@ Samantha Lee (SRL84), Olia Javidi (OJ33), and Katie Li (YL2249)
 
 **Goals**
 
-Our goal is to analyze changing urbanization dynamics across the globe and identify countries with high rates of urbanization. From there we will ask:
+Our goal is to analyze and predict carbon emissions across the globe and identify ways to mitigate per capita CO2 emissions. From there we will ask:
 
 1) Which countries have the highest rates of carbon emissions per capita?
 
